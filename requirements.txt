@@ -1,0 +1,14 @@
+# probably outdated lmk and ill update it
+discord.py
+python-dotenv
+matplotlib.pyplot
+numpy
+pandas
+seaborn
+requests
+asyncio
+aiohttp
+json
+io
+math
+
